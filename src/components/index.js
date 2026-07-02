@@ -1,3 +1,5 @@
+import ComputersCanvas from "./Computers";
+
 // canvas components
 import {
   EarthCanvas,
